@@ -167,3 +167,126 @@ img{
     width: 79%;
     margin-left: 8px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px) {
+    section{
+        display: flex;
+        flex-direction: column;
+    }
+    .learning-awesome-div{
+        display: flex;
+        flex-direction: column;
+        width: 102%;
+    }
+    .kahootkids__div{
+        display: flex;
+        flex-direction: column;
+    }
+    .new__div{
+        display: flex;
+        flex-direction: column;
+    }
+    .kahoot__div{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    img{
+        width: 355px;
+    height: 155px;
+    margin-left: 0px;
+    margin-top: -230px;
+    }
+}
