@@ -290,7 +290,9 @@ img{
     .learning-awesome-div{
         display: flex;
         flex-direction: column;
-        width: 102%;
+        width: 364px;
+        margin-left: -26px;
+        height: 371px;
     }
     .kahootkids__div{
         display: flex;
@@ -306,9 +308,31 @@ img{
         width: 100%;
     }
     img{
-        width: 355px;
-    height: 155px;
-    margin-left: 0px;
-    margin-top: -230px;
+        width: 364px;
+        height: 155px;
+        margin-left: 0;
+        margin-top: -230px;
+    }
+    .learning-awesome-heading{
+        font-size: 24px;
+        margin-top: 142px;
+        width: 197px;
+        line-height: 24px;
+    }
+    .learning-awesome-paragraph{
+        font-size: 14px;
+        width: 282px;
+    }
+    .learning-awesome-button{
+        padding: 5.5px 16.5px;
+        font-size: 11px;
+    }
+    .superstar__div{
+        margin-top: 246px;
+    }
+    .led__image{
+        width: 363px;
+        margin-left: -258px;
+        height: 188px;
     }
 }
